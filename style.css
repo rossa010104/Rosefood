@@ -670,9 +670,7 @@ form textarea{
     margin-bottom: 100px;
     color: #f9f9f9;
     text-transform: capitalize;
-    background: linear-gradient(-45deg, #eeaa52, #e73c6f, rgb(118, 53, 161), blue);
     background-size: 200% 200%;
-    -webkit-background-clip: text;
     -webkit-text-stroke: 16px transparent;
     animation: gradient 5s ease infinite;
 }
